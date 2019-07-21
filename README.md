@@ -6,5 +6,5 @@ Para mais informações:
 
 - Mauricio Soto - Estudante de Ciência da Computação na Ulbra - BR & Frontend Developer.
 
-- [Contact](mauricioasoto@gmail.com)
+- Contato: mauricioasoto@gmail.com
 
